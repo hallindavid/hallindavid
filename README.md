@@ -10,7 +10,7 @@
 ### connect
 
 [![Website](https://img.shields.io/website?label=davidhallin.com&style=for-the-badge&url=https%3A%2F%2Fdavidhallin.com)](https://davidhallin.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/david_hallin?color=1da1f2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhallindavid&screen_name=hallindavid)
+[![Twitter Follow](https://img.shields.io/twitter/follow/david_hallin?color=1da1f2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdavid_hallin&screen_name=david_hallin)
 
 
 ### languages i like working with
