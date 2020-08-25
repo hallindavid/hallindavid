@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi, I'm Dave
 
-<!--
-**hallindavid/hallindavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :office: I work at [iApotheca Healthcare][iapotheca] - making software for pharmacies 
+- :round_pushpin: I live in Peterborough, Ontario, Canada
+- :hammer_and_wrench: I build data-driven applications (see [iApotheca][iapotheca]) a few packages/tools to make dev work easier (Check out [Manny][manny] & [BootstrapVueFormBuilder][bsvueformbuilder] )
+- :goal: I want to start live-streaming the build process for a few of my back-burner side-projects - I have a few that should be pretty fun and will hopefully help people out.
+- :muscle: I am strong in data flow/analysis/structures, and can usually get a minimum-viable-product up and running pretty quick
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### connect
+
+[![Website](https://img.shields.io/website?label=davidhallin.com&style=for-the-badge&url=https%3A%2F%2Fdavidhallin.com)](https://davidhallin.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/david_hallin?color=1da1f2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhallindavid&screen_name=hallindavid)
+
+
+### languages i like working with
+
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
+
+[<img align="left" alt="MySQL" width="26px" src="https://laravel-livewire.com/img/twitter.png" />][livewire]
+<img align="left" alt="TailwindCSS" width="26px" src="https://tailwindcss.com/_next/static/media/twitter-square.18b32c43e6fa4c8ee7db66330112a331.png" />
+<img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="GoLang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+
+
+<br />
+
+---
+
+[website]: https://davidhallin.com
+[twitter]: https://twitter.com/david_hallin
+[livewire]: https://laravel-livewire.com
+[bsvueformbuilder]: https://bootstrapvueformbuilder.com/#/
+[manny]: https://github.com/hallindavid/manny
+[iapotheca]: https://www.iapotheca.com
