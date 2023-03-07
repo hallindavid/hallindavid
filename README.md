@@ -1,9 +1,9 @@
 ### Hi, I'm Dave
 
-- :office: I work at [iApotheca Healthcare][iapotheca] - making software for pharmacies 
+- :office: I work at [LogicalDox][logicaldox]
 - :round_pushpin: I live in Peterborough, Ontario, Canada
 - :hammer_and_wrench: I build data-driven applications ( check out [iApotheca]) and a few packages/tools to make dev work easier (check out [Manny], [timr], and [AlpineTransitionPreviewer])
-- :goal_net:  I want to start live-streaming the build process for a few of my back-burner side-projects - I have a few that should be pretty fun and will hopefully help people out.
+- :goal_net:  I am working towards a degree in Mathematics
 - :muscle: I am strong in data flow/analysis/structures, and can usually get a minimum-viable-product up and running pretty quick
 
 ---
@@ -35,5 +35,5 @@
 [twitter]: https://twitter.com/david_hallin
 [timr]: https://github.com/hallindavid/timr
 [Manny]: https://github.com/hallindavid/manny
-[iApotheca]: https://iapotheca.com "iApotheca Homepage"
+[logicaldox]: https://logicaldox.com "LogicalDox Homepage"
 [AlpineTransitionPreviewer]: https://github.com/hallindavid/alpine-transition-preview
