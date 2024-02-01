@@ -1,7 +1,7 @@
 ### Hi, I'm Dave
 
 - :office: I work at [LogicalDox][logicaldox]
-- :round_pushpin: I live in Peterborough, Ontario, Canada
+- :round_pushpin: I live in Kingston, Ontario, Canada
 - :hammer_and_wrench: I build data-driven applications ( check out [iApotheca]) and a few packages/tools to make dev work easier (check out [Manny], [timr], and [AlpineTransitionPreviewer])
 - :goal_net:  I am working towards a degree in Mathematics
 - :muscle: I am strong in data flow/analysis/structures, and can usually get a minimum-viable-product up and running pretty quick
