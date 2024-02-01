@@ -33,6 +33,7 @@
 
 [website]: https://davidhallin.com
 [twitter]: https://twitter.com/david_hallin
+[iApotheca]: https://iapotheca.com
 [timr]: https://github.com/hallindavid/timr
 [Manny]: https://github.com/hallindavid/manny
 [logicaldox]: https://logicaldox.com "LogicalDox Homepage"
