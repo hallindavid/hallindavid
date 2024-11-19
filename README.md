@@ -1,6 +1,6 @@
 ### Hi, I'm Dave
 
-- :office: I work at [LogicalDox][logicaldox]
+- :office: I work at [Miashare][miashare]
 - :round_pushpin: I live in Kingston, Ontario, Canada
 - :hammer_and_wrench: I build data-driven applications ( check out [iApotheca]) and a few packages/tools to make dev work easier (check out [Manny], [timr], and [AlpineTransitionPreviewer])
 - :goal_net:  I am working towards a degree in Mathematics
@@ -36,5 +36,5 @@
 [iApotheca]: https://iapotheca.com
 [timr]: https://github.com/hallindavid/timr
 [Manny]: https://github.com/hallindavid/manny
-[logicaldox]: https://logicaldox.com "LogicalDox Homepage"
+[miashare]: https://www.miashare.com
 [AlpineTransitionPreviewer]: https://github.com/hallindavid/alpine-transition-preview
