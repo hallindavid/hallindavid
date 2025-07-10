@@ -1,7 +1,7 @@
-### Hi, I'm Dave
+ ### Hi, I'm Dave
 
-- :office: I work at [Miashare][miashare]
-- :round_pushpin: I live in Kingston, Ontario, Canada
+- :office: I work at [Lumion][lumion]
+- :round_pushpin: I live in Edmonton, Alberta, Canada
 - :hammer_and_wrench: I build data-driven applications ( check out [iApotheca]) and a few packages/tools to make dev work easier (check out [Manny], [timr], and [AlpineTransitionPreviewer])
 - :goal_net:  I am working towards a degree in Mathematics
 - :muscle: I am strong in data flow/analysis/structures, and can usually get a minimum-viable-product up and running pretty quick
@@ -36,5 +36,5 @@
 [iApotheca]: https://iapotheca.com
 [timr]: https://github.com/hallindavid/timr
 [Manny]: https://github.com/hallindavid/manny
-[miashare]: https://www.miashare.com
+[lumion]: https://joinlumion.com
 [AlpineTransitionPreviewer]: https://github.com/hallindavid/alpine-transition-preview
